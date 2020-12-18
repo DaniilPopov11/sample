@@ -1,0 +1,82 @@
+$ff: Open Sans,
+self-serif;
+$fs: 12px;
+$fw: 400;
+$s: normal;
+$fc: rgba(112, 133, 152, 1);
+$d: inline-block;
+$m: 87px 6px 0 6px;
+$h: 20px;
+$w: 40px;
+$br: 4px;
+
+
+.geo-marker {
+    display: $d;
+    font-family: $ff;
+    font-size: $fs;
+    font-weight: $fw;
+    font-style: $s;
+    color: $fc;
+    background-color: #FAFBFC;
+    max-height: $h;
+}
+
+.paterns {
+    display: $d;
+    font-family: $ff;
+    font-size: $fs;
+    font-weight: $fw;
+    font-style: $s;
+    color: $fc;
+    background-color: #FAFBFC;
+}
+
+.head {
+    background-color: #FAFBFC;
+    max-height: 32px;
+}
+
+body {
+    max-width: 1280px;
+    max-height: 474px;
+
+}
+
+.group {
+    display: $d;
+    font-family: $ff;
+    font-size: $fs;
+    font-weight: $fw;
+    font-style: $s;
+    color: $fc;
+}
+
+.menu {
+    max-height: $w;
+    max-width: auto;
+    background-color: #FED83D;
+    border-radius: $br;
+    font-size: $fs+2;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
+}
+
+.search{
+    background: url(/images/search.png)20px 20px no-repeat;
+    border: none;
+}
+
+.user{
+    height: $w;
+    width: $w;
+    border-radius: 50%;
+    background-color: #9B51E0;
+}
+
+.list{
+    width: $w;
+    background-color: #FAFBFC;
+    border-radius: $br;
+}

@@ -1,0 +1,69 @@
+.geo-marker {
+  display: inline-block;
+  font-family: Open Sans, self-serif;
+  font-size: 12px;
+  font-weight: 400;
+  font-style: normal;
+  color: #708598;
+  background-color: #FAFBFC;
+  max-height: 20px;
+}
+
+.paterns {
+  display: inline-block;
+  font-family: Open Sans, self-serif;
+  font-size: 12px;
+  font-weight: 400;
+  font-style: normal;
+  color: #708598;
+  background-color: #FAFBFC;
+}
+
+.head {
+  background-color: #FAFBFC;
+  max-height: 32px;
+}
+
+body {
+  max-width: 1280px;
+  max-height: 474px;
+}
+
+.group {
+  display: inline-block;
+  font-family: Open Sans, self-serif;
+  font-size: 12px;
+  font-weight: 400;
+  font-style: normal;
+  color: #708598;
+}
+
+.menu {
+  max-height: 40px;
+  max-width: auto;
+  background-color: #FED83D;
+  border-radius: 4px;
+  font-size: 14px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.search {
+  background: url(/images/search.png) 20px 20px no-repeat;
+  border: none;
+}
+
+.user {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background-color: #9B51E0;
+}
+
+.list {
+  width: 40px;
+  background-color: #FAFBFC;
+  border-radius: 4px;
+}
+
+/*# sourceMappingURL=style.css.map */
